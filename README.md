@@ -1,2 +1,2 @@
 # EDA Portfolio
-Built my CV with HTML and CSS and integrated my CV on Figma 
+Built my Exploratory Data Analysis around the Zameen Properties.
