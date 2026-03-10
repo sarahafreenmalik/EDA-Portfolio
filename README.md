@@ -24,4 +24,4 @@ Raw property data contained duplicates, missing values, and complex string forma
 
 ## Deliverables
 - [EDA Jupyter Notebook](https://github.com/sarahafreenmalik/EDA-Portfolio/blob/main/EDA_Portfolio.ipynb)
-- Visualizations: violin
+- Visualizations: violin plot, scatter plot, and correlation heatmap
